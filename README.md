@@ -127,4 +127,4 @@ Arthur Conceição Souza
 
 ## Evidência de execução
 
-Cole aqui o print da saída do `Main` e do resultado de `mvn test`.
+Execução e testes validados no Eclipse: 26 testes executados, 0 erros e 0 falhas.
