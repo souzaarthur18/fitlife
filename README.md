@@ -121,14 +121,9 @@ mvn test
 
 Na IDE: importe como projeto Maven, execute `Main.java` para a demonstração e clique com o botão direito em `src/test/java` → *Run Tests*.
 
-## Divisão de tarefas
+## Autor
 
-| Integrante | Responsabilidade |
-|------------|------------------|
-| (nome) | Classes de modelo (`Cliente`, `Treino`, `Exercicio`) |
-| (nome) | Planos e interface (`Calculavel`, `Plano`, `PlanoMensal`, `PlanoPremium`) |
-| (nome) | `PagamentoService` e `Main` |
-| (nome) | Testes e documentação |
+Arthur Conceição Souza
 
 ## Evidência de execução
 
